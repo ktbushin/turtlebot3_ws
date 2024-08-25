@@ -1,0 +1,22 @@
+[0.771s] Invoking command in '/home/kosuke/turtlebot3_ws/build/turtlebot3_example': PYTHONPATH=/home/kosuke/turtlebot3_ws/build/turtlebot3_example/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kosuke/turtlebot3_ws/install/turtlebot3_example/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/kosuke/turtlebot3_ws/build/turtlebot3_example/build --no-deps symlink_data
+[1.000s] running develop
+[1.001s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.001s]   warnings.warn(
+[1.210s] running egg_info
+[1.210s] writing turtlebot3_example.egg-info/PKG-INFO
+[1.210s] writing dependency_links to turtlebot3_example.egg-info/dependency_links.txt
+[1.211s] writing entry points to turtlebot3_example.egg-info/entry_points.txt
+[1.211s] writing requirements to turtlebot3_example.egg-info/requires.txt
+[1.211s] writing top-level names to turtlebot3_example.egg-info/top_level.txt
+[1.213s] reading manifest file 'turtlebot3_example.egg-info/SOURCES.txt'
+[1.214s] writing manifest file 'turtlebot3_example.egg-info/SOURCES.txt'
+[1.215s] running build_ext
+[1.216s] Creating /home/kosuke/turtlebot3_ws/install/turtlebot3_example/lib/python3.10/site-packages/turtlebot3-example.egg-link (link to .)
+[1.217s] Installing turtlebot3_obstacle_detection script to /home/kosuke/turtlebot3_ws/install/turtlebot3_example/lib/turtlebot3_example
+[1.218s] Installing turtlebot3_patrol_client script to /home/kosuke/turtlebot3_ws/install/turtlebot3_example/lib/turtlebot3_example
+[1.218s] Installing turtlebot3_patrol_server script to /home/kosuke/turtlebot3_ws/install/turtlebot3_example/lib/turtlebot3_example
+[1.218s] Installing turtlebot3_position_control script to /home/kosuke/turtlebot3_ws/install/turtlebot3_example/lib/turtlebot3_example
+[1.219s] 
+[1.219s] Installed /home/kosuke/turtlebot3_ws/build/turtlebot3_example
+[1.219s] running symlink_data
+[1.267s] Invoked command in '/home/kosuke/turtlebot3_ws/build/turtlebot3_example' returned '0': PYTHONPATH=/home/kosuke/turtlebot3_ws/build/turtlebot3_example/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kosuke/turtlebot3_ws/install/turtlebot3_example/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/kosuke/turtlebot3_ws/build/turtlebot3_example/build --no-deps symlink_data

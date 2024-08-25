@@ -1,0 +1,35 @@
+running egg_info
+creating ../build/turtlebot3_sensor_reader/turtlebot3_sensor_reader.egg-info
+writing ../build/turtlebot3_sensor_reader/turtlebot3_sensor_reader.egg-info/PKG-INFO
+writing dependency_links to ../build/turtlebot3_sensor_reader/turtlebot3_sensor_reader.egg-info/dependency_links.txt
+writing entry points to ../build/turtlebot3_sensor_reader/turtlebot3_sensor_reader.egg-info/entry_points.txt
+writing requirements to ../build/turtlebot3_sensor_reader/turtlebot3_sensor_reader.egg-info/requires.txt
+writing top-level names to ../build/turtlebot3_sensor_reader/turtlebot3_sensor_reader.egg-info/top_level.txt
+writing manifest file '../build/turtlebot3_sensor_reader/turtlebot3_sensor_reader.egg-info/SOURCES.txt'
+reading manifest file '../build/turtlebot3_sensor_reader/turtlebot3_sensor_reader.egg-info/SOURCES.txt'
+writing manifest file '../build/turtlebot3_sensor_reader/turtlebot3_sensor_reader.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/kosuke/turtlebot3_ws/src/build/turtlebot3_sensor_reader/build
+creating /home/kosuke/turtlebot3_ws/src/build/turtlebot3_sensor_reader/build/lib
+creating /home/kosuke/turtlebot3_ws/src/build/turtlebot3_sensor_reader/build/lib/turtlebot3_sensor_reader
+copying turtlebot3_sensor_reader/turtlebot3_sensor_reader.py -> /home/kosuke/turtlebot3_ws/src/build/turtlebot3_sensor_reader/build/lib/turtlebot3_sensor_reader
+copying turtlebot3_sensor_reader/__init__.py -> /home/kosuke/turtlebot3_ws/src/build/turtlebot3_sensor_reader/build/lib/turtlebot3_sensor_reader
+running install
+running install_lib
+creating /home/kosuke/turtlebot3_ws/src/install/turtlebot3_sensor_reader/lib/python3.10/site-packages/turtlebot3_sensor_reader
+copying /home/kosuke/turtlebot3_ws/src/build/turtlebot3_sensor_reader/build/lib/turtlebot3_sensor_reader/turtlebot3_sensor_reader.py -> /home/kosuke/turtlebot3_ws/src/install/turtlebot3_sensor_reader/lib/python3.10/site-packages/turtlebot3_sensor_reader
+copying /home/kosuke/turtlebot3_ws/src/build/turtlebot3_sensor_reader/build/lib/turtlebot3_sensor_reader/__init__.py -> /home/kosuke/turtlebot3_ws/src/install/turtlebot3_sensor_reader/lib/python3.10/site-packages/turtlebot3_sensor_reader
+byte-compiling /home/kosuke/turtlebot3_ws/src/install/turtlebot3_sensor_reader/lib/python3.10/site-packages/turtlebot3_sensor_reader/turtlebot3_sensor_reader.py to turtlebot3_sensor_reader.cpython-310.pyc
+byte-compiling /home/kosuke/turtlebot3_ws/src/install/turtlebot3_sensor_reader/lib/python3.10/site-packages/turtlebot3_sensor_reader/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/kosuke/turtlebot3_ws/src/install/turtlebot3_sensor_reader/share/ament_index
+creating /home/kosuke/turtlebot3_ws/src/install/turtlebot3_sensor_reader/share/ament_index/resource_index
+creating /home/kosuke/turtlebot3_ws/src/install/turtlebot3_sensor_reader/share/ament_index/resource_index/packages
+copying resource/turtlebot3_sensor_reader -> /home/kosuke/turtlebot3_ws/src/install/turtlebot3_sensor_reader/share/ament_index/resource_index/packages
+copying package.xml -> /home/kosuke/turtlebot3_ws/src/install/turtlebot3_sensor_reader/share/turtlebot3_sensor_reader
+running install_egg_info
+Copying ../build/turtlebot3_sensor_reader/turtlebot3_sensor_reader.egg-info to /home/kosuke/turtlebot3_ws/src/install/turtlebot3_sensor_reader/lib/python3.10/site-packages/turtlebot3_sensor_reader-0.0.0-py3.10.egg-info
+running install_scripts
+Installing turtlebot3_sensor_reader script to /home/kosuke/turtlebot3_ws/src/install/turtlebot3_sensor_reader/lib/turtlebot3_sensor_reader
+writing list of installed files to '/home/kosuke/turtlebot3_ws/src/build/turtlebot3_sensor_reader/install.log'

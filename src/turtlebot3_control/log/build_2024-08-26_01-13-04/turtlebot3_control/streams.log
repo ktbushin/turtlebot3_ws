@@ -1,0 +1,24 @@
+[0.590s] Invoking command in '/home/kosuke/turtlebot3_ws/src/turtlebot3_control': PYTHONPATH=/home/kosuke/turtlebot3_ws/src/turtlebot3_control/build/turtlebot3_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kosuke/turtlebot3_ws/src/turtlebot3_control/install/turtlebot3_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/turtlebot3_control build --build-base /home/kosuke/turtlebot3_ws/src/turtlebot3_control/build/turtlebot3_control/build install --record /home/kosuke/turtlebot3_ws/src/turtlebot3_control/build/turtlebot3_control/install.log --single-version-externally-managed install_data
+[0.803s] running egg_info
+[0.803s] writing build/turtlebot3_control/turtlebot3_control.egg-info/PKG-INFO
+[0.803s] writing dependency_links to build/turtlebot3_control/turtlebot3_control.egg-info/dependency_links.txt
+[0.804s] writing entry points to build/turtlebot3_control/turtlebot3_control.egg-info/entry_points.txt
+[0.804s] writing requirements to build/turtlebot3_control/turtlebot3_control.egg-info/requires.txt
+[0.804s] writing top-level names to build/turtlebot3_control/turtlebot3_control.egg-info/top_level.txt
+[0.805s] reading manifest file 'build/turtlebot3_control/turtlebot3_control.egg-info/SOURCES.txt'
+[0.806s] writing manifest file 'build/turtlebot3_control/turtlebot3_control.egg-info/SOURCES.txt'
+[0.806s] running build
+[0.806s] running build_py
+[0.806s] copying turtlebot3_control/turtlebot3_control.py -> /home/kosuke/turtlebot3_ws/src/turtlebot3_control/build/turtlebot3_control/build/lib/turtlebot3_control
+[0.806s] running install
+[0.807s] running install_lib
+[0.807s] copying /home/kosuke/turtlebot3_ws/src/turtlebot3_control/build/turtlebot3_control/build/lib/turtlebot3_control/turtlebot3_control.py -> /home/kosuke/turtlebot3_ws/src/turtlebot3_control/install/turtlebot3_control/lib/python3.10/site-packages/turtlebot3_control
+[0.808s] byte-compiling /home/kosuke/turtlebot3_ws/src/turtlebot3_control/install/turtlebot3_control/lib/python3.10/site-packages/turtlebot3_control/turtlebot3_control.py to turtlebot3_control.cpython-310.pyc
+[0.808s] running install_data
+[0.808s] running install_egg_info
+[0.810s] removing '/home/kosuke/turtlebot3_ws/src/turtlebot3_control/install/turtlebot3_control/lib/python3.10/site-packages/turtlebot3_control-0.0.0-py3.10.egg-info' (and everything under it)
+[0.810s] Copying build/turtlebot3_control/turtlebot3_control.egg-info to /home/kosuke/turtlebot3_ws/src/turtlebot3_control/install/turtlebot3_control/lib/python3.10/site-packages/turtlebot3_control-0.0.0-py3.10.egg-info
+[0.811s] running install_scripts
+[0.829s] Installing turtlebot3_control script to /home/kosuke/turtlebot3_ws/src/turtlebot3_control/install/turtlebot3_control/lib/turtlebot3_control
+[0.830s] writing list of installed files to '/home/kosuke/turtlebot3_ws/src/turtlebot3_control/build/turtlebot3_control/install.log'
+[0.855s] Invoked command in '/home/kosuke/turtlebot3_ws/src/turtlebot3_control' returned '0': PYTHONPATH=/home/kosuke/turtlebot3_ws/src/turtlebot3_control/build/turtlebot3_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kosuke/turtlebot3_ws/src/turtlebot3_control/install/turtlebot3_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/turtlebot3_control build --build-base /home/kosuke/turtlebot3_ws/src/turtlebot3_control/build/turtlebot3_control/build install --record /home/kosuke/turtlebot3_ws/src/turtlebot3_control/build/turtlebot3_control/install.log --single-version-externally-managed install_data

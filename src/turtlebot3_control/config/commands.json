@@ -1,0 +1,20 @@
+{
+    "commands": [
+        {
+            "direction": "forward",
+            "distance": "10cm"
+        },
+        {
+            "direction": "right",
+            "angle": "50"
+        },
+        {
+            "direction": "backward",
+            "distance": "7cm"
+        },
+        {
+            "direction": "left",
+            "angle": "30"
+        }
+    ]
+}

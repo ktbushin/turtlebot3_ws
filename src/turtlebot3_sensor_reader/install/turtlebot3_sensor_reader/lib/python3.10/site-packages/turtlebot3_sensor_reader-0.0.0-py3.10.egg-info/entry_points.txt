@@ -1,0 +1,3 @@
+[console_scripts]
+turtlebot3_sensor_reader = turtlebot3_sensor_reader.turtlebot3_sensor_reader:main
+
