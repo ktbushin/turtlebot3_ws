@@ -1,0 +1,24 @@
+[0.568s] Invoking command in '/home/kosuke/turtlebot3_ws/src/turtlebot3_sensor_reader': PYTHONPATH=/home/kosuke/turtlebot3_ws/src/build/turtlebot3_sensor_reader/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kosuke/turtlebot3_ws/src/install/turtlebot3_sensor_reader/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/turtlebot3_sensor_reader build --build-base /home/kosuke/turtlebot3_ws/src/build/turtlebot3_sensor_reader/build install --record /home/kosuke/turtlebot3_ws/src/build/turtlebot3_sensor_reader/install.log --single-version-externally-managed install_data
+[0.764s] running egg_info
+[0.764s] writing ../build/turtlebot3_sensor_reader/turtlebot3_sensor_reader.egg-info/PKG-INFO
+[0.765s] writing dependency_links to ../build/turtlebot3_sensor_reader/turtlebot3_sensor_reader.egg-info/dependency_links.txt
+[0.765s] writing entry points to ../build/turtlebot3_sensor_reader/turtlebot3_sensor_reader.egg-info/entry_points.txt
+[0.765s] writing requirements to ../build/turtlebot3_sensor_reader/turtlebot3_sensor_reader.egg-info/requires.txt
+[0.765s] writing top-level names to ../build/turtlebot3_sensor_reader/turtlebot3_sensor_reader.egg-info/top_level.txt
+[0.766s] reading manifest file '../build/turtlebot3_sensor_reader/turtlebot3_sensor_reader.egg-info/SOURCES.txt'
+[0.767s] writing manifest file '../build/turtlebot3_sensor_reader/turtlebot3_sensor_reader.egg-info/SOURCES.txt'
+[0.767s] running build
+[0.767s] running build_py
+[0.768s] copying turtlebot3_sensor_reader/turtlebot3_sensor_reader.py -> /home/kosuke/turtlebot3_ws/src/build/turtlebot3_sensor_reader/build/lib/turtlebot3_sensor_reader
+[0.768s] running install
+[0.769s] running install_lib
+[0.770s] copying /home/kosuke/turtlebot3_ws/src/build/turtlebot3_sensor_reader/build/lib/turtlebot3_sensor_reader/turtlebot3_sensor_reader.py -> /home/kosuke/turtlebot3_ws/src/install/turtlebot3_sensor_reader/lib/python3.10/site-packages/turtlebot3_sensor_reader
+[0.770s] byte-compiling /home/kosuke/turtlebot3_ws/src/install/turtlebot3_sensor_reader/lib/python3.10/site-packages/turtlebot3_sensor_reader/turtlebot3_sensor_reader.py to turtlebot3_sensor_reader.cpython-310.pyc
+[0.771s] running install_data
+[0.772s] running install_egg_info
+[0.773s] removing '/home/kosuke/turtlebot3_ws/src/install/turtlebot3_sensor_reader/lib/python3.10/site-packages/turtlebot3_sensor_reader-0.0.0-py3.10.egg-info' (and everything under it)
+[0.773s] Copying ../build/turtlebot3_sensor_reader/turtlebot3_sensor_reader.egg-info to /home/kosuke/turtlebot3_ws/src/install/turtlebot3_sensor_reader/lib/python3.10/site-packages/turtlebot3_sensor_reader-0.0.0-py3.10.egg-info
+[0.774s] running install_scripts
+[0.792s] Installing turtlebot3_sensor_reader script to /home/kosuke/turtlebot3_ws/src/install/turtlebot3_sensor_reader/lib/turtlebot3_sensor_reader
+[0.793s] writing list of installed files to '/home/kosuke/turtlebot3_ws/src/build/turtlebot3_sensor_reader/install.log'
+[0.810s] Invoked command in '/home/kosuke/turtlebot3_ws/src/turtlebot3_sensor_reader' returned '0': PYTHONPATH=/home/kosuke/turtlebot3_ws/src/build/turtlebot3_sensor_reader/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kosuke/turtlebot3_ws/src/install/turtlebot3_sensor_reader/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/turtlebot3_sensor_reader build --build-base /home/kosuke/turtlebot3_ws/src/build/turtlebot3_sensor_reader/build install --record /home/kosuke/turtlebot3_ws/src/build/turtlebot3_sensor_reader/install.log --single-version-externally-managed install_data

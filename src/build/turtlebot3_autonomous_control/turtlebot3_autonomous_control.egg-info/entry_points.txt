@@ -1,0 +1,3 @@
+[console_scripts]
+turtlebot3_autonomous_control = turtlebot3_autonomous_control.turtlebot3_autonomous_control:main
+

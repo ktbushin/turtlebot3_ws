@@ -16,11 +16,15 @@ class Turtlebot3Control(Node):
         self.current_command_index = 0  # 現在のコマンドのインデックス
         self.commands = []  # JSONファイルから読み込んだコマンドを保存
 
+        # 設定ファイルのパスを構築
+        config_dir = os.path.expanduser('~/turtlebot3_ws/src/turtlebot3_control/config')
+        self.json_file_path = os.path.join(config_dir, "commands.json")
+
     def timer_callback(self):
         json_file = 'config/commands.json'
         
         # ファイルの最終更新時刻を取得
-        current_modified_time = os.path.getmtime(json_file)
+        current_modified_time = os.path.getmtime(json_file_path)
         
         # ファイルが変更されたかを確認
         if current_modified_time != self.last_modified_time:

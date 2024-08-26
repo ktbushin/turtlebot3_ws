@@ -2,7 +2,7 @@
     "commands": [
         {
             "direction": "forward",
-            "distance": "10cm"
+            "distance": "100cm"
         },
         {
             "direction": "right",

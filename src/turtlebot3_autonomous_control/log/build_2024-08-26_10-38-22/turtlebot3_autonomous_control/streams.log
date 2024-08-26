@@ -1,0 +1,24 @@
+[0.590s] Invoking command in '/home/kosuke/turtlebot3_ws/src/turtlebot3_autonomous_control': PYTHONPATH=/home/kosuke/turtlebot3_ws/src/turtlebot3_autonomous_control/build/turtlebot3_autonomous_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kosuke/turtlebot3_ws/src/turtlebot3_autonomous_control/install/turtlebot3_autonomous_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/turtlebot3_autonomous_control build --build-base /home/kosuke/turtlebot3_ws/src/turtlebot3_autonomous_control/build/turtlebot3_autonomous_control/build install --record /home/kosuke/turtlebot3_ws/src/turtlebot3_autonomous_control/build/turtlebot3_autonomous_control/install.log --single-version-externally-managed install_data
+[0.803s] running egg_info
+[0.805s] writing build/turtlebot3_autonomous_control/turtlebot3_autonomous_control.egg-info/PKG-INFO
+[0.805s] writing dependency_links to build/turtlebot3_autonomous_control/turtlebot3_autonomous_control.egg-info/dependency_links.txt
+[0.806s] writing entry points to build/turtlebot3_autonomous_control/turtlebot3_autonomous_control.egg-info/entry_points.txt
+[0.806s] writing requirements to build/turtlebot3_autonomous_control/turtlebot3_autonomous_control.egg-info/requires.txt
+[0.806s] writing top-level names to build/turtlebot3_autonomous_control/turtlebot3_autonomous_control.egg-info/top_level.txt
+[0.808s] reading manifest file 'build/turtlebot3_autonomous_control/turtlebot3_autonomous_control.egg-info/SOURCES.txt'
+[0.808s] writing manifest file 'build/turtlebot3_autonomous_control/turtlebot3_autonomous_control.egg-info/SOURCES.txt'
+[0.809s] running build
+[0.809s] running build_py
+[0.809s] copying turtlebot3_autonomous_control/turtlebot3_autonomous_control.py -> /home/kosuke/turtlebot3_ws/src/turtlebot3_autonomous_control/build/turtlebot3_autonomous_control/build/lib/turtlebot3_autonomous_control
+[0.809s] running install
+[0.809s] running install_lib
+[0.810s] copying /home/kosuke/turtlebot3_ws/src/turtlebot3_autonomous_control/build/turtlebot3_autonomous_control/build/lib/turtlebot3_autonomous_control/turtlebot3_autonomous_control.py -> /home/kosuke/turtlebot3_ws/src/turtlebot3_autonomous_control/install/turtlebot3_autonomous_control/lib/python3.10/site-packages/turtlebot3_autonomous_control
+[0.812s] byte-compiling /home/kosuke/turtlebot3_ws/src/turtlebot3_autonomous_control/install/turtlebot3_autonomous_control/lib/python3.10/site-packages/turtlebot3_autonomous_control/turtlebot3_autonomous_control.py to turtlebot3_autonomous_control.cpython-310.pyc
+[0.812s] running install_data
+[0.812s] running install_egg_info
+[0.813s] removing '/home/kosuke/turtlebot3_ws/src/turtlebot3_autonomous_control/install/turtlebot3_autonomous_control/lib/python3.10/site-packages/turtlebot3_autonomous_control-0.0.0-py3.10.egg-info' (and everything under it)
+[0.813s] Copying build/turtlebot3_autonomous_control/turtlebot3_autonomous_control.egg-info to /home/kosuke/turtlebot3_ws/src/turtlebot3_autonomous_control/install/turtlebot3_autonomous_control/lib/python3.10/site-packages/turtlebot3_autonomous_control-0.0.0-py3.10.egg-info
+[0.814s] running install_scripts
+[0.833s] Installing turtlebot3_autonomous_control script to /home/kosuke/turtlebot3_ws/src/turtlebot3_autonomous_control/install/turtlebot3_autonomous_control/lib/turtlebot3_autonomous_control
+[0.833s] writing list of installed files to '/home/kosuke/turtlebot3_ws/src/turtlebot3_autonomous_control/build/turtlebot3_autonomous_control/install.log'
+[0.861s] Invoked command in '/home/kosuke/turtlebot3_ws/src/turtlebot3_autonomous_control' returned '0': PYTHONPATH=/home/kosuke/turtlebot3_ws/src/turtlebot3_autonomous_control/build/turtlebot3_autonomous_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kosuke/turtlebot3_ws/src/turtlebot3_autonomous_control/install/turtlebot3_autonomous_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/turtlebot3_autonomous_control build --build-base /home/kosuke/turtlebot3_ws/src/turtlebot3_autonomous_control/build/turtlebot3_autonomous_control/build install --record /home/kosuke/turtlebot3_ws/src/turtlebot3_autonomous_control/build/turtlebot3_autonomous_control/install.log --single-version-externally-managed install_data

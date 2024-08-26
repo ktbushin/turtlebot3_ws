@@ -2,6 +2,7 @@ import rclpy
 from rclpy.node import Node
 from sensor_msgs.msg import LaserScan
 import json
+import os
 
 class SensorReader(Node):
     def __init__(self, max_scans=3):
@@ -22,7 +23,12 @@ class SensorReader(Node):
         self.data_storage = []
 
         # JSONファイルの準備
-        self.json_file_path = 'config/sensor_data.json'
+        # 設定ディレクトリのパスを展開
+        config_dir = os.path.expanduser('~/turtlebot3_ws/src/turtlebot3_sensor_reader/config')
+        if not os.path.exists(config_dir):
+            os.makedirs(config_dir)  # ディレクトリが存在しない場合は作成
+
+        self.json_file_path = os.path.join(config_dir, 'sensor_data.json')
 
     def listener_callback(self, msg):
         # センサー値を取得してリストに追加
